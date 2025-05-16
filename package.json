@@ -1,0 +1,15 @@
+{
+  "name": "drift-game",
+  "version": "1.0.0",
+  "description": "Um jogo de drift simples",
+  "main": "public/script.js",
+  "scripts": {
+    "start": "parcel public/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
